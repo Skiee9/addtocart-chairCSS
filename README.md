@@ -26,3 +26,6 @@ To view this project locally, follow these steps:
    
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/c902aef9-603c-474b-8bf8-e24cc9a6650d)
+
+## live link
+ (https://skiee9.github.io/addtocart-chairCSS/)
