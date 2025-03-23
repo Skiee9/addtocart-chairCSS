@@ -1,4 +1,5 @@
 # ChairTrove
+The Chair Project demonstrates the creation of various chair designs using HTML and CSS.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Designs](#designs)
